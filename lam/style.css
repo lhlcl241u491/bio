@@ -1,13 +1,13 @@
 body {
-  background: black;
-  color: #fff;
+ background: black;
+  color: white;
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
   letter-spacing: 2px;
 }
 
 img {
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 .profile-picture {
@@ -58,8 +58,8 @@ a {
 }
 
 a:hover {
-  background: #fff;
-  color: #000;
+  background: white;
+  color: white;
   transition: 0.8 ease;
 }
 
