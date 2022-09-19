@@ -1,0 +1,38 @@
+Những điều cần biết về VPN 4G đọc kĩ trước khi mua !
+
+Sơ qua về VPN 4G
+- Không giới data tốc độ cao
+- Phải dùng qua app VPN 
+- Cần đăng ký gói LQ30 ( 20k / tháng ) của nhà mạng để dùng song song với VPN ( Sim viettel )
+- Không phát được wifi ( phát được nhưng cùi không dùng được apps )
+- Với androi cần Apps clash for androi 
+- Với thiết bị IOS cần app Shadowrocket mua 69K ( hỗ trợ tải free )
+
+==============================================
+Hướng dẫn cho IOS 
+
+Bước 1 : Đăng ký tài khoản tại lhlechxanh.tk gửi tài khoản đăng ký web cho mình để add gói 
+Bước 2 : Đăng ký gói liên quân theo cú pháp
+
+DK LQ30 gửi 9029 || Y LQ30 để đồng ý
+
+Bước 3 : copy tài khoản mật khẩu vào làm theo video ở link bên dưới !
+
+Tk : echxanh@gmail.com
+MK : echxanh@gmail.com
+
+Link video hướng dẫn https://bom.so/EA4wP0
+
+==============================================
+
+Hướng dẫn cho Androi !
+
+Bước 1 : Đăng ký tài khoản tại lhlechxanh.tk gửi tài khoản đăng ký web cho mình để add gói 
+
+Bước 2 : Đăng ký gói liên quân theo cú pháp
+
+DK LQ30 gửi 9029 || Y LQ30 để đồng ý
+
+Bước 3 tải app clash for androi và làm theo video ở link dưới !
+
+https://bom.so/hblBRV
